@@ -26,7 +26,7 @@
 
 ```bash
 # Clone and start
-git clone https://github.com/YOUR_USERNAME/neuralnet-dashboard.git
+git clone https://github.com/KernelSanders-DFIR/neuralnet-dashboard.git
 cd neuralnet-dashboard
 docker compose up --build
 ```
